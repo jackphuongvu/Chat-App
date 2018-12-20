@@ -1,0 +1,52 @@
+{  
+    "gender":"female",
+    "name":{  
+       "title":"miss",
+       "first":"emilia",
+       "last":"tanner"
+    },
+    "location":{  
+       "street":"5686 verkatehtaankatu",
+       "city":"punkalaidun",
+       "state":"south karelia",
+       "postcode":53800,
+       "coordinates":{  
+          "latitude":"-14.7843",
+          "longitude":"84.9459"
+       },
+       "timezone":{  
+          "offset":"+11:00",
+          "description":"Magadan, Solomon Islands, New Caledonia"
+       }
+    },
+    "email":"emilia.tanner@example.com",
+    "login":{  
+       "uuid":"3e3f9fab-7420-4156-9aa7-216cdd719bae",
+       "username":"heavycat176",
+       "password":"ou8123",
+       "salt":"tiahuz1Q",
+       "md5":"551248d8b60b57678a23fdfd26eecc43",
+       "sha1":"d0b028b094046afc321dbd27c5be9049d6a135d0",
+       "sha256":"d986484d075c9f3b7e6dbd009ea73604fdfe996fe2b9190572aaac9812158f93"
+    },
+    "dob":{  
+       "date":"1964-11-01T00:17:36Z",
+       "age":53
+    },
+    "registered":{  
+       "date":"2014-12-14T12:23:28Z",
+       "age":3
+    },
+    "phone":"08-405-769",
+    "cell":"041-872-43-07",
+    "id":{  
+       "name":"HETU",
+       "value":"NaNNA934undefined"
+    },
+    "picture":{  
+       "large":"https://randomuser.me/api/portraits/women/83.jpg",
+       "medium":"https://randomuser.me/api/portraits/med/women/83.jpg",
+       "thumbnail":"https://randomuser.me/api/portraits/thumb/women/83.jpg"
+    },
+    "nat":"FI"
+ }

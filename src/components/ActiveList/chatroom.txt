@@ -1,0 +1,27 @@
+{
+    chatroom: {
+        messages: [
+            {
+                id: string,
+                text: string,
+                time: timestamp,
+                author: {
+                    name: string,
+                    avatar: string
+                }
+            },
+            ...
+        ],
+        meta: {
+            isFetching: boolean,
+            lastFetched: timestamp,
+            height: integer
+        }
+    },
+    user: {
+        name: string,
+        avatar: string,
+        authorized: boolean,
+        authorizing: boolean
+    }
+}
