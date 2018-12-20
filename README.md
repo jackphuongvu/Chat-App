@@ -31,8 +31,6 @@ This is a Community for all English learners around the world!
 
 ## Screenshots
 
-![alt text](https://raw.githubusercontent.com/lunvjp/English-Chat-App/master/readme_images/login.png)
-
 Login Screen              |  List Topic Screen
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/lunvjp/English-Chat-App/master/readme_images/login.png)  |  ![](https://raw.githubusercontent.com/lunvjp/English-Chat-App/master/readme_images/list_topic.png)
