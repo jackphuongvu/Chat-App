@@ -48,9 +48,9 @@ const BottomNavigation = createBottomTabNavigator({
   },
   // TODO:
   // Update chat Feature later.
-  // Chat : {
-  //   screen : ChatScreen
-  // },
+  Chat : {
+    screen : ChatScreen
+  },
   // Profile : {
   //   screen : ProfileScreen
   // },
